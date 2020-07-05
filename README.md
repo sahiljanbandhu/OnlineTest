@@ -1,5 +1,5 @@
 # OnlineTest
-The project named as “Online Test” is the Web Application ONLINE TEST provides the exam for the Programming Knowledge in different Programming languages like C, Java, etc.
+The project named as “Online Test” is the WebSite. ONLINE TEST provides the exam for the Programming Knowledge in different Programming languages like C, Java, etc.
 
 **1. Website Home Page:- 
 Form Name: - Home.aspx**
