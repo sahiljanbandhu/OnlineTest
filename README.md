@@ -1,5 +1,12 @@
 # OnlineTest
+### Information:
+It is my 1st BSC(CS) final year project.
+
+### About Website:
 The project named as “Online Test” is the WebSite. ONLINE TEST provides the exam for the Programming Knowledge in different Programming languages like C, Java, etc.
+The project is made from Visual studio 2010 where backend is ms sql server 2012.
+
+### ScreenShots:
 
 **1. Website Home Page:- 
 Form Name: - Home.aspx**
