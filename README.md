@@ -6,8 +6,8 @@ It is my 1st BSC(CS) final year project. i.e for Semester 5.
 The project named as “Online Test” is the WebSite. ONLINE TEST provides the exam for the Programming Knowledge in different Programming languages like C, Java, etc.
 The project is made from Visual studio 2010 where backend is ms sql server 2012.
 Contain:
-Admin Panel - works to add question for canditate
-Candidate - can atend quiz
+Admin Panel - works to add question for students
+Student - can atend quiz
 
 ### ScreenShots:
 
