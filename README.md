@@ -34,5 +34,5 @@ Web Form: Ebook2.aspx**
 ![image](https://user-images.githubusercontent.com/22257930/84566700-eb222200-ad90-11ea-950b-0aa553ffdf56.png)
 ![image](https://user-images.githubusercontent.com/22257930/84566734-1c9aed80-ad91-11ea-965b-272c833763ec.png)
 **Website Exam Page:-**
-![image](https://user-images.githubusercontent.com/22257930/84566756-405e3380-ad91-11ea-822d-beedce3eb1cd.png) 1
+![image](https://user-images.githubusercontent.com/22257930/84566756-405e3380-ad91-11ea-822d-beedce3eb1cd.png) 
 
