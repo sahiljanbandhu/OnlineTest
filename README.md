@@ -1,6 +1,6 @@
 # OnlineTest
 ### Information:
-It is my 1st BSC(CS) final year project. i.e for Seemester 5. 
+It is my 1st BSC(CS) final year project. i.e for Semester 5. 
 
 ### About Website:
 The project named as “Online Test” is the WebSite. ONLINE TEST provides the exam for the Programming Knowledge in different Programming languages like C, Java, etc.
